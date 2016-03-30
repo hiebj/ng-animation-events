@@ -1,3 +1,3 @@
-# ng-animationend
+# ng-animation-events
 
-AngularJS directive that evaluates an angular expression when an element fires `animationend` or a vendor-specific variant.
+AngularJS directives that evaluate angular expressions when an element fires `animationend` or other CSS3 animation events.

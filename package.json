@@ -1,7 +1,7 @@
 {
   "name": "ng-animationend",
   "version": "0.0.0",
-  "description": "AngularJS directive that evaluates an angular expression when an element fires animationend",
+  "description": "AngularJS directive that evaluates an angular expression when an element fires CSS3 animation events",
   "repository": {
     "type": "git",
     "url": "https://github.com/hiebj/ng-animationend.git"
