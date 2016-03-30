@@ -1,10 +1,10 @@
 (function() {
     'use strict';
     angular
-        .module('animationend', [])
+        .module('animation-events', [])
         .directive('animationend', animationEnd);
 
-    function animationend() {
+    function animationEnd() {
         var animationEndEvents = [
             'animationend',
             'webkitAnimationEnd',
